@@ -49,8 +49,6 @@ ECHO cygwin installation updated
 ECHO  - %PACKAGES%
 ECHO.
 
-ENDLOCAL
-
 REM -- Change to Cygwin Root folder
 CD %ROOTDIR%
 
