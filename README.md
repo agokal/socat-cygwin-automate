@@ -12,4 +12,5 @@ This script automates the installation of [Cygwin](https://cygwin.com/) and the 
 - https://github.com/rtwolf/cygwin-auto-install
 - https://gist.github.com/wjrogers/1016065
 - https://github.com/valorisa/socat-1.7.4.4_for_Windows
+- https://github.com/3ndG4me/socat
 
