@@ -6,7 +6,10 @@ This script automates the installation of [Cygwin](https://cygwin.com/) and the 
 
 1. Save the script to a local folder on your Windows machine.
 2. Open an elevated command prompt and navigate to the folder containing the script.
-3. Enter `socat-compile.bat`
+3. Run `socat-compile.bat`
+4. The socat exe is located in `C:\cygwin64\socat-1.7.4.4\`
+
+Note: socat.exe requires the .dll files within socat-1.7.4.4 to run
 
 ## Sources
 - https://github.com/rtwolf/cygwin-auto-install
