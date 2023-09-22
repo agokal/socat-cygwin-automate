@@ -1,6 +1,6 @@
 # socat-install-cygwin
 
-This script automates the installation of [Cygwin](https://cygwin.com/) and the compilation of [socat version 1.7.4.4](http://www.dest-unreach.org/socat/download/socat-1.7.4.4.tar.gz) for Windows. It downloads the Cygwin installer and installs it with the necessary packages for socat compilation, then downloads and compiles socat. The resulting socat executable is located in the extracted socat folder.
+This script automates the installation of [Cygwin](https://cygwin.com/) and the compilation of [socat version 1.7.4.4](http://www.dest-unreach.org/socat/download/socat-1.7.4.4.tar.gz) for Windows. It downloads the Cygwin installer, installs it with the necessary packages for socat compilation, then downloads and compiles socat. The resulting socat executable is located in the extracted socat folder.
 
 ## Usage
 
